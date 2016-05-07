@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="163.9998"
+   x="0in"
+   version="1.2"
+   y="0in"
+   height="177.16534"
+   viewBox="0 0 1822.22 1968.5037"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="svg.schematic.NEO_6M_GPS_schematic.svg">
+  <metadata
+     id="metadata115">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs113" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="721"
+     id="namedview111"
+     showgrid="false"
+     inkscape:zoom="1.49"
+     inkscape:cx="35.815452"
+     inkscape:cy="139.6494"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3067"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     id="schematic"
+     transform="translate(0,-1353.716)">
+    <g
+       id="g3067"
+       transform="translate(6.2428576,-50.372909)">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:21.59269524;stroke-linecap:round;stroke-linejoin:round"
+         id="rect5"
+         height="1697.6691"
+         y="1539.5062"
+         x="303.33923"
+         width="1208.4073" />
+      <g
+         id="g3126"
+         transform="translate(1.5935156e-5,-100.26324)">
+        <text
+           x="902.5722"
+           y="2418.7659"
+           font-size="235"
+           style="font-size:235px;text-anchor:middle;fill:#000000;stroke:none;font-family:DroidSans"
+           id="text3096">NEO</text>
+        <text
+           id="text3094"
+           style="font-size:235px;text-anchor:middle;fill:#000000;stroke:none;font-family:DroidSans"
+           font-size="235"
+           y="2672.1555"
+           x="897.40863">6M</text>
+      </g>
+      <line
+         style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+         id="line8"
+         x2="1515.9772"
+         y2="1843.71"
+         x1="1800.9772"
+         y1="1843.71" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector0pin"
+         height="30"
+         y="1828.71"
+         x="-1815.9772"
+         width="300"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector0terminal"
+         height="30"
+         y="1828.71"
+         x="-1815.9772"
+         width="30"
+         transform="scale(-1,1)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+         id="line18"
+         x2="1515.9772"
+         y2="2143.71"
+         x1="1800.9772"
+         y1="2143.71" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector1pin"
+         height="30"
+         y="2128.71"
+         x="-1815.9772"
+         width="300"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector1terminal"
+         height="30"
+         y="2128.71"
+         x="-1815.9772"
+         width="30"
+         transform="scale(-1,1)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+         id="line28"
+         x2="1515.9772"
+         y2="2443.71"
+         x1="1800.9772"
+         y1="2443.71" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector2pin"
+         height="30"
+         y="2428.71"
+         x="-1815.9772"
+         width="300"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector2terminal"
+         height="30"
+         y="2428.71"
+         x="-1815.9772"
+         width="30"
+         transform="scale(-1,1)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+         id="line38"
+         x2="1515.9772"
+         y2="2743.71"
+         x1="1800.9772"
+         y1="2743.71" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector3pin"
+         height="30"
+         y="2728.71"
+         x="-1815.9772"
+         width="300"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector3terminal"
+         height="30"
+         y="2728.71"
+         x="-1815.9772"
+         width="30"
+         transform="scale(-1,1)" />
+      <line
+         style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round;stroke-linejoin:round"
+         id="line48"
+         x2="1515.9772"
+         y2="3043.71"
+         x1="1800.9772"
+         y1="3043.71" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector4pin"
+         height="30"
+         y="3028.71"
+         x="-1815.9772"
+         width="300"
+         transform="scale(-1,1)" />
+      <rect
+         style="fill:none;stroke-width:0"
+         id="connector4terminal"
+         height="30"
+         y="3028.71"
+         x="-1815.9772"
+         width="30"
+         transform="scale(-1,1)" />
+      <text
+         style="font-size:130px;text-anchor:start;fill:#4d4d4d;stroke:none;font-family:DroidSans"
+         font-size="130"
+         id="label0"
+         y="1878.71"
+         x="1217.8115">PPS</text>
+      <text
+         style="font-size:130px;text-anchor:start;fill:#4d4d4d;stroke:none;font-family:DroidSans"
+         font-size="130"
+         id="label1"
+         y="2178.71"
+         x="1200.3555">RXD</text>
+      <text
+         style="font-size:130px;text-anchor:start;fill:#4d4d4d;stroke:none;font-family:DroidSans"
+         font-size="130"
+         id="label2"
+         y="2478.71"
+         x="1209.4961">TXD</text>
+      <text
+         style="font-size:130px;text-anchor:start;fill:#4d4d4d;stroke:none;font-family:DroidSans"
+         font-size="130"
+         id="label3"
+         y="2778.71"
+         x="1163.793">GND</text>
+      <text
+         style="font-size:130px;text-anchor:start;fill:#4d4d4d;stroke:none;font-family:DroidSans"
+         font-size="130"
+         id="label4"
+         y="3078.71"
+         x="1207.2109">VCC</text>
+      <rect
+         style="fill:none"
+         transform="scale(-1,1)"
+         id="connector5pin"
+         height="26.628508"
+         y="3003.3745"
+         x="-1824.6484"
+         width="308.53525" />
+      <rect
+         style="fill:none;stroke-width:0"
+         transform="scale(-1,1)"
+         id="connector6pin"
+         height="30"
+         y="2726.0229"
+         x="-1824.6486"
+         width="300" />
+      <rect
+         style="fill:none;stroke-width:0"
+         transform="scale(-1,1)"
+         id="connector7pin"
+         height="30"
+         y="2422.3713"
+         x="-1817.1914"
+         width="300" />
+      <rect
+         style="fill:none;stroke-width:0"
+         transform="scale(-1,1)"
+         id="connector8pin"
+         height="30"
+         y="2121.9958"
+         x="-1832.1058"
+         width="300" />
+      <rect
+         style="fill:none;stroke-width:0"
+         transform="scale(-1,1)"
+         id="connector9pin"
+         height="30"
+         y="1823.7111"
+         x="-1817.1914"
+         width="300" />
+    </g>
+  </g>
+</svg>
