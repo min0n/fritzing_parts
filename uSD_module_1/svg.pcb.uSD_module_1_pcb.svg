@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="63.779526"
+   version="1.2"
+   height="46.062992"
+   viewBox="0 0 708.66137 511.81101"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="svg.pcb.uSD_module_pcb.svg">
+  <metadata
+     id="metadata51">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs49" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1024"
+     inkscape:window-height="721"
+     id="namedview47"
+     showgrid="true"
+     inkscape:zoom="2.74"
+     inkscape:cx="44.568077"
+     inkscape:cy="20.787793"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="mm"
+     inkscape:document-units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3053"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="1.27mm"
+       spacingy="1.27mm" />
+  </sodipodi:namedview>
+  <desc
+     id="desc4">Fritzing footprint SVG</desc>
+  <g
+     id="silkscreen"
+     transform="matrix(0.73297378,0,0,0.46655516,-0.74095176,-0.59114631)">
+    <line
+       y1="5"
+       x1="304"
+       y2="5"
+       x2="666"
+       id="line7"
+       style="stroke:#ffffff;stroke-width:10" />
+    <line
+       y1="5"
+       x1="666"
+       y2="262"
+       x2="965"
+       id="line9"
+       style="stroke:#ffffff;stroke-width:10" />
+    <line
+       y1="262"
+       x1="965"
+       y2="1092"
+       x2="965"
+       id="line11"
+       style="stroke:#ffffff;stroke-width:10" />
+    <line
+       y1="1092"
+       x1="965"
+       y2="1092"
+       x2="5"
+       id="line13"
+       style="stroke:#ffffff;stroke-width:10" />
+    <line
+       y1="1092"
+       x1="5"
+       y2="262"
+       x2="5"
+       id="line15"
+       style="stroke:#ffffff;stroke-width:10" />
+    <line
+       y1="262"
+       x1="5"
+       y2="5"
+       x2="304"
+       id="line17"
+       style="stroke:#ffffff;stroke-width:10" />
+  </g>
+  <g
+     id="copper0"
+     transform="translate(-2.4912765,-5.6609101)">
+    <g
+       id="g3067">
+      <rect
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         id="rect20"
+         height="48"
+         y="37.21463"
+         x="62.316883"
+         width="48" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="296"
+         sodipodi:cx="50"
+         d="m 74,296 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector0pin"
+         r="24"
+         cy="296"
+         cx="50"
+         transform="translate(36.316883,-234.78532)" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="375"
+         sodipodi:cx="50"
+         d="m 74,375 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector1pin"
+         r="24"
+         cy="375"
+         cx="50"
+         transform="translate(36.316883,-211.6868)" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="454"
+         sodipodi:cx="50"
+         d="m 74,454 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector2pin"
+         r="24"
+         cy="454"
+         cx="50"
+         transform="translate(36.316883,-192.43359)" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="533"
+         sodipodi:cx="50"
+         d="m 74,533 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector3pin"
+         r="24"
+         cy="533"
+         cx="50"
+         transform="translate(36.316883,-170.01206)" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="612"
+         sodipodi:cx="50"
+         d="m 74,612 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector4pin"
+         r="24"
+         cy="612"
+         cx="50"
+         transform="translate(36.316883,-150.08182)" />
+    </g>
+    <g
+       id="g3075">
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="691"
+         sodipodi:cx="50"
+         d="m 74,691 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector5pin"
+         r="24"
+         cy="691"
+         cx="50"
+         transform="matrix(-1,0,0,-1,677.32704,1152.9182)" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="770"
+         sodipodi:cx="50"
+         d="m 74,770 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector6pin"
+         r="24"
+         cy="770"
+         cx="50"
+         transform="matrix(-1,0,0,-1,677.32704,1132.9879)" />
+      <circle
+         d="m 74,849 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="849"
+         sodipodi:cx="50"
+         id="connector7pin"
+         r="24"
+         cy="849"
+         cx="50"
+         transform="matrix(-1,0,0,-1,677.32704,1110.5664)" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="928"
+         sodipodi:cx="50"
+         d="m 74,928 c 0,13.25483 -10.745166,24 -24,24 -13.254834,0 -24,-10.74517 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector8pin"
+         r="24"
+         cy="928"
+         cx="50"
+         transform="matrix(-1,0,0,-1,677.32704,1091.3132)" />
+      <circle
+         style="fill:none;stroke:#ffbf00;stroke-width:20"
+         sodipodi:ry="24"
+         sodipodi:rx="24"
+         sodipodi:cy="1007"
+         sodipodi:cx="50"
+         d="m 74,1007 c 0,13.2548 -10.745166,24 -24,24 -13.254834,0 -24,-10.7452 -24,-24 0,-13.25483 10.745166,-24 24,-24 13.254834,0 24,10.74517 24,24 z"
+         id="connector9pin"
+         r="24"
+         cy="1007"
+         cx="50"
+         transform="matrix(-1,0,0,-1,677.32704,1068.8916)" />
+    </g>
+  </g>
+  <g
+     id="keepout"
+     transform="translate(0,-585.18901)" />
+  <g
+     id="soldermask"
+     transform="translate(0,-585.18901)" />
+  <g
+     id="outline"
+     transform="translate(0,-585.18901)" />
+</svg>

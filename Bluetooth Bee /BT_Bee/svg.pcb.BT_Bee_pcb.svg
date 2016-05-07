@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="0.970in"
+   version="1.2"
+   height="1.097in"
+   viewBox="0 0 970 1097"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="svg.pcb.XBee__877e22b126c5347caae548fa21aeed7c__pcb__f2ed5bbc32322d015b17240d13300d06.svg">
+  <metadata
+     id="metadata51">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs49" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview47"
+     showgrid="false"
+     inkscape:zoom="2.3903575"
+     inkscape:cx="43.650002"
+     inkscape:cy="49.365002"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <desc
+     id="desc4">Fritzing footprint SVG</desc>
+  <g
+     id="silkscreen">
+    <line
+       stroke="white"
+       y1="5"
+       x1="304"
+       y2="5"
+       stroke-width="10"
+       x2="666"
+       id="line7" />
+    <line
+       stroke="white"
+       y1="5"
+       x1="666"
+       y2="262"
+       stroke-width="10"
+       x2="965"
+       id="line9" />
+    <line
+       stroke="white"
+       y1="262"
+       x1="965"
+       y2="1092"
+       stroke-width="10"
+       x2="965"
+       id="line11" />
+    <line
+       stroke="white"
+       y1="1092"
+       x1="965"
+       y2="1092"
+       stroke-width="10"
+       x2="5"
+       id="line13" />
+    <line
+       stroke="white"
+       y1="1092"
+       x1="5"
+       y2="262"
+       stroke-width="10"
+       x2="5"
+       id="line15" />
+    <line
+       stroke="white"
+       y1="262"
+       x1="5"
+       y2="5"
+       stroke-width="10"
+       x2="304"
+       id="line17" />
+  </g>
+  <g
+     id="copper0">
+    <rect
+       width="48"
+       x="26"
+       y="272"
+       height="48"
+       id="rect20"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="296"
+       r="24"
+       id="connector0pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="375"
+       r="24"
+       id="connector1pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="454"
+       r="24"
+       id="connector2pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="533"
+       r="24"
+       id="connector3pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="612"
+       r="24"
+       id="connector4pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="691"
+       r="24"
+       id="connector5pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="770"
+       r="24"
+       id="connector6pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="849"
+       r="24"
+       id="connector7pin"
+       sodipodi:cx="50"
+       sodipodi:cy="849"
+       sodipodi:rx="24"
+       sodipodi:ry="24"
+       style="fill:none;stroke:#ffbf00;stroke-width:20" />
+    <circle
+       cx="50"
+       cy="928"
+       r="24"
+       id="connector8pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="50"
+       cy="1007"
+       r="24"
+       id="connector9pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="1007"
+       r="24"
+       id="connector10pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="928"
+       r="24"
+       id="connector11pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="849"
+       r="24"
+       id="connector12pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="770"
+       r="24"
+       id="connector13pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="691"
+       r="24"
+       id="connector14pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="612"
+       r="24"
+       id="connector15pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="533"
+       r="24"
+       id="connector16pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="454"
+       r="24"
+       id="connector17pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="375"
+       r="24"
+       id="connector18pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <circle
+       cx="920"
+       cy="296"
+       r="24"
+       id="connector19pin"
+       stroke-width="20"
+       stroke="rgb(255, 191, 0)"
+       fill="none" />
+    <rect
+       width="68.20798828235039"
+       x="15.94501718213058"
+       y="807.2252580449306"
+       height="69.24592599234261"
+       id="rect3050"
+       fill="none" />
+  </g>
+  <g
+     id="keepout" />
+  <g
+     id="soldermask" />
+  <g
+     id="outline" />
+</svg>
